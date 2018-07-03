@@ -17,4 +17,4 @@
 
 ## Python
 
-- Prefer [PEP style](https://www.python.org/dev/peps/pep-0008/).
+- Prefer [PEP 8 style](https://pep8.org).
