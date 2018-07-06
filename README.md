@@ -19,7 +19,7 @@
 
 - Use [PEP 8 style](https://pep8.org).
 
-## HTNL/CSS
+## HTML/CSS
 
 - Try to use semantic HTML.
 - Use [BEM](http://getbem.com/) naming convention. 
