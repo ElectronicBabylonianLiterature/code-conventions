@@ -7,6 +7,8 @@
 - Use a deterministic package manager. E.g. [yarn](https://yarnpkg.com/lang/en/) or [pipenv](https://docs.pipenv.org/).
 - Write tests for your code. Test Driven Development is recommended but not mandatory. There is no hard requirement for code coverage but it should improve over time.
 - Prefer a single branch workflow. If branches are needed use [GitHub Flow](https://guides.github.com/introduction/flow/).
+- Implement a proper domain model. Avoid passing data around in dictionaries.
+- Prefer immutable value objects. [attrs](https://attrs.readthedocs.io/) and [Immutable](https://immutable-js.github.io/immutable-js) make the task easier.
 - Update this documentation if an issue which is not covered arises.
 - When contributing to projects outside eBL adhere to their standards.
 
