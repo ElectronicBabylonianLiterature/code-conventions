@@ -14,12 +14,13 @@
 
 ## JavaScript
 
-- Use [JavaScript Standard Style](https://standardjs.com/).
+- Use [Prettier](https://prettier.io) or [JavaScript Standard Style](https://standardjs.com/).
 - Stick to the [good parts](https://smile.amazon.de/JavaScript-Parts-Working-Shallow-Grain/dp/0596517742).
+- Consider using TypeScript.
 
 ## Python
 
-- Use [PEP 8 style](https://pep8.org).
+- Use [Black](https://black.readthedocs.io/en/stable/) or [PEP 8 style](https://pep8.org).
 
 ## HTML/CSS
 
